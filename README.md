@@ -4,7 +4,9 @@ The flcTimer module (.h and .cpp files) and my_utility module are two of my own 
 
 In my solutions I use three development phases:
 
-EXAMPLE - uses hard coded input, just to check if the solution algorithm works. I use the example data from the puzzles here; TEST - uses small text file input, typically the same example data as before. This phase is aimed at checking if my file input is working properly; PUZZLE - this phase is used to generate the answer to the puzzle; Therefore, you typically find an input.test.txt and input.puzzle.txt for each day.
+ * EXAMPLE - uses hard coded input, just to check if the solution algorithm works. I use the example data from the puzzles here; 
+ * TEST - uses small text file input, typically the same example data as before. This phase is aimed at checking if my file input is working properly; 
+ * PUZZLE - this phase is used to generate the answer to the puzzle; Therefore, you typically find an input.test.txt and input.puzzle.txt for each day.
 
 Have fun!
 
